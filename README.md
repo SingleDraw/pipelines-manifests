@@ -1,6 +1,7 @@
 # Kubeflow Pipelines (Trimmed Manifests)
 
 This repository contains a minimal subset of manifests from the Kubeflow Pipelines project, extracted for deployment purposes.
+NOTE: Removed .\manifests\kustomize\third-party\minio\base\mlpipeline-minio-artifact-secret.yaml, so it must be created manually before deployment.
 
 ## Source
 
